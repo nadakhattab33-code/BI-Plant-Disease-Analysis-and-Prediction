@@ -36,6 +36,12 @@ Dataset summary:
 ![Dataset Size](images/dataset_size.png)
 
 ---
+## Dataset Link
+
+The dataset file is too large to upload directly to GitHub.  
+It is available through OneDrive:
+
+[Download Dataset](https://1drv.ms/u/c/cd9639f1b9c7cd16/IQDAC8WoyGhfTZWUKBS5cJvcARViLL-QPLm5tK4ovO6VB-I?e=kNnuw0)
 
 ## Dataset Samples
 
