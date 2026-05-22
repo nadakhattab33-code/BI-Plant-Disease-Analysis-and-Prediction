@@ -178,6 +178,41 @@ The evaluation process included:
 ![Power BI Overview](images/powerbi_overview.png)
 
 ---
+---
+
+## Results Summary
+
+The final model achieved strong performance in plant disease classification across 38 plant disease and healthy classes. The evaluation results show that the model can classify plant leaf images with high accuracy and stable performance across most classes.
+
+| Metric | Value |
+|---|---:|
+| Model Accuracy | 95.81% |
+| Macro F1-score | 94.42% |
+| Balanced Accuracy | 93.96% |
+| Weighted F1-score | 95.70% |
+| Number of Classes | 38 |
+
+The high model accuracy indicates strong overall classification performance. The weighted F1-score of 95.70% shows that the model performs well across the dataset while considering class support. The macro F1-score and balanced accuracy were also included because the dataset contains class imbalance, making these metrics important for evaluating performance more fairly across all classes.
+
+The Power BI dashboard further supports the analysis by showing disease-wise F1-scores, dataset distribution by plant type, and key model insights. Some classes achieved very high F1-scores, while a few classes still need improvement due to class imbalance and visual similarity between plant disease symptoms.
+
+---
+## Power BI Dashboard Insights
+
+The Power BI dashboard was used to analyze the final model results and provide a clear visual summary of the model performance.
+
+The dashboard includes:
+
+- Overall model accuracy
+- Macro F1-score
+- Weighted F1-score
+- Balanced accuracy
+- Number of disease classes
+- Dataset distribution by plant type
+- Disease-wise F1-score comparison
+- Model insights and interpretation
+
+The dashboard shows that the model achieved **95.81% accuracy**, with a **95.70% weighted F1-score**, indicating strong overall classification performance. However, the dataset distribution shows class imbalance, which explains why macro F1-score and balanced accuracy were also included for a more reliable evaluation.
 
 ## Class Performance Analysis
 
