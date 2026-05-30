@@ -21,6 +21,27 @@ The project focuses on classifying plant leaf images into healthy and diseased c
 | Results Files | [View results](results/) |
 
 ---
+
+## Project Information
+
+| Item | Details |
+|---|---|
+| Project Title | Plant Disease BI System |
+| Student Name | Nada Ahmed Khattab |
+| University | University of Petra |
+| Faculty | Business |
+| Specialization | Business Intelligence |
+| Supervisor | Husam Barham |
+| Submission Date | 1 / 6 / 2026 |
+
+---
+
+## Team Member
+
+- Nada Ahmed Khattab
+
+---
+
 ## Project Code
 
 The main project code is available in Google Colab:
@@ -42,6 +63,10 @@ The notebook contains the complete implementation of the plant disease classific
 - Exporting model results for Power BI dashboard analysis
 
 This Google Colab notebook represents the main source code of the project.
+
+---
+
+
 ## Objectives
 
 The main objectives of this project are:
